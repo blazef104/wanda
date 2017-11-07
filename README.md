@@ -1,4 +1,4 @@
-###Slightly modified fishbone theme
+### Slightly modified fishbone theme
 
 ## Installation
 
